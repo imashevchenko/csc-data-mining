@@ -1,0 +1,37 @@
+Unions and State Labor Law
+================================
+
+Variable Names: 
+DENS: 	Percent of public sector employees in unions, 1982 
+COMP: 	State bargaining laws cover public employees (1) or not (0) 
+RTW: 	State right-to-work law (1) or not (0) 
+PVT: 	Percent of private sector employees in unions, 1982 
+
+Number of cases: 50 
+
+
+Meltz analyzed factors associated with differences in the percent  of public
+sector employees belonging to unions by states in the United States and
+by provinces in Canada. While he did not run formal regression analyses, 
+he finds the major source of difference in public union density to be the 
+differences in percent of private sector employees in unions.
+
+The dummy variables for presence of state bargaining laws covering public
+employees and presence of state right to work laws in the datafile provide
+an opportunity to examine a two-predictor regression involving dummy 
+variables. In this case there is interaction between the two dummy 
+variables and this calls for interpretation. The interaction variable 
+forms a two-way classification table and the regression equation 
+estimates the means of the observations in the four cells. 
+In the current case the main effect of right-to-work laws is not 
+significant, but the interaction with comprehensive state bargaining
+laws is. The presence of right-to-work laws is said then to modify the 
+relation between unionization and state bargaining laws covering public 
+employees. Right-to-work laws would be termed a moderator variable.
+
+
+Reference: 
+N.M. Meltz, "Interstate and Interprovincial Differences in Union Density," 
+Industrial Relations, 28:2 (Spring 1989), 142-158. 
+
+

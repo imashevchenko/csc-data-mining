@@ -1,0 +1,28 @@
+Nursing Home Data
+===================
+
+Variable Names: 
+BED = 	 number of beds in home 
+MCDAYS = annual medical in-patient days (hundreds) 
+TDAYS =  annual total patient days (hundreds) 
+PCREV =  annual total patient care revenue ($hundreds) 
+NSAL =   annual nursing salaries ($hundreds) 
+FEXP =   annual facilities expenditures ($hundreds) 
+RURAL =  rural (1) and non-rural (0) homes 
+
+Number of cases: 52 
+
+The data were collected by the Department of Social Services of the 
+State of New Mexico, and cover 52 of the 60 licensed nursing 
+facilities in the state in 1988. The operating statistics are 
+number of beds, medical in-patient days, total patient days, total 
+patient care revenue, annual nursing salaries, and annual facilities 
+expenditures for rural and non-rural nursing homes. 
+
+These data are part of the data analyzed in 
+Howard L. Smith, Niell F. Piland, and Nancy Fisher, 
+"A Comparison of Financial Performance, Organizational 
+Characteristics, and Management Strategy Among Rural and Urban 
+Nursing Facilities, 
+Journal of Rural Health, Winter 1992, pp 27-40. 
+
